@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CODECHEF_GYM_BEGINNER" Database="" Version="10000">
+  <Project Name="enormous_input" Path="enormous_input/enormous_input.project" Active="No"/>
+  <Project Name="add_numbers" Path="add_numbers/add_numbers.project" Active="No"/>
+  <Project Name="sum_of_digits" Path="sum_of_digits/sum_of_digits.project" Active="No"/>
+  <Project Name="find_remainder" Path="find_remainder/find_remainder.project" Active="No"/>
+  <Project Name="small_factorial" Path="small_factorial/small_factorial.project" Active="No"/>
+  <Project Name="multiply_by_array" Path="multiply_by_array/multiply_by_array.project" Active="No"/>
+  <Project Name="pass_array" Path="pass_array/pass_array.project" Active="No"/>
+  <Project Name="quick_sort" Path="quick_sort/quick_sort.project" Active="No"/>
+  <Project Name="turbo_sort" Path="turbo_sort/turbo_sort.project" Active="No"/>
+  <Project Name="first_and_last_digit_sum" Path="first_and_last_digit_sum/first_and_last_digit_sum.project" Active="No"/>
+  <Project Name="occurence_of_four" Path="occurence_of_four/occurence_of_four.project" Active="No"/>
+  <Project Name="reverse_a_integer" Path="reverse_a_integer/reverse_a_integer.project" Active="No"/>
+  <Project Name="square_root" Path="square_root/square_root.project" Active="No"/>
+  <Project Name="lead_game" Path="lead_game/lead_game.project" Active="No"/>
+  <Project Name="second_largest" Path="second_largest/second_largest.project" Active="No"/>
+  <Project Name="pancakes_packaging" Path="pancakes_packaging/pancakes_packaging.project" Active="No"/>
+  <Project Name="factorial_revisited" Path="factorial_revisited/factorial_revisited.project" Active="No"/>
+  <Project Name="helping_chef" Path="helping_chef/helping_chef.project" Active="No"/>
+  <Project Name="chef_and_operators" Path="chef_and_operators/chef_and_operators.project" Active="No"/>
+  <Project Name="IIT_BHU_Problem1" Path="IIT_BHU_Problem1/IIT_BHU_Problem1.project" Active="No"/>
+  <Project Name="IIT_BHU_Problem2" Path="IIT_BHU_Problem2/IIT_BHU_Problem2.project" Active="No"/>
+  <Project Name="IIT_BHU_Problem3" Path="IIT_BHU_Problem3/IIT_BHU_Problem3.project" Active="No"/>
+  <Project Name="pattern" Path="pattern/pattern.project" Active="No"/>
+  <Project Name="entry_guards" Path="entry_guards/entry_guards.project" Active="No"/>
+  <Project Name="gcd" Path="gcd/gcd.project" Active="No"/>
+  <Project Name="lowest_form" Path="lowest_form/lowest_form.project" Active="No"/>
+  <Project Name="very_large_numbers" Path="very_large_numbers/very_large_numbers.project" Active="No"/>
+  <Project Name="boost_library" Path="boost_library/boost_library.project" Active="No"/>
+  <Project Name="valid_triangle" Path="valid_triangle/valid_triangle.project" Active="No"/>
+  <Project Name="ciel_reciept" Path="ciel_reciept/ciel_reciept.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="enormous_input" ConfigName="Debug"/>
+      <Project Name="add_numbers" ConfigName="Debug"/>
+      <Project Name="sum_of_digits" ConfigName="Debug"/>
+      <Project Name="find_remainder" ConfigName="Debug"/>
+      <Project Name="small_factorial" ConfigName="Debug"/>
+      <Project Name="multiply_by_array" ConfigName="Debug"/>
+      <Project Name="pass_array" ConfigName="Debug"/>
+      <Project Name="quick_sort" ConfigName="Debug"/>
+      <Project Name="turbo_sort" ConfigName="Debug"/>
+      <Project Name="first_and_last_digit_sum" ConfigName="Debug"/>
+      <Project Name="occurence_of_four" ConfigName="Debug"/>
+      <Project Name="reverse_a_integer" ConfigName="Debug"/>
+      <Project Name="square_root" ConfigName="Debug"/>
+      <Project Name="lead_game" ConfigName="Debug"/>
+      <Project Name="second_largest" ConfigName="Debug"/>
+      <Project Name="pancakes_packaging" ConfigName="Debug"/>
+      <Project Name="factorial_revisited" ConfigName="Debug"/>
+      <Project Name="helping_chef" ConfigName="Debug"/>
+      <Project Name="chef_and_operators" ConfigName="Debug"/>
+      <Project Name="IIT_BHU_Problem1" ConfigName="Debug"/>
+      <Project Name="IIT_BHU_Problem2" ConfigName="Debug"/>
+      <Project Name="IIT_BHU_Problem3" ConfigName="Debug"/>
+      <Project Name="pattern" ConfigName="Debug"/>
+      <Project Name="entry_guards" ConfigName="Debug"/>
+      <Project Name="gcd" ConfigName="Debug"/>
+      <Project Name="lowest_form" ConfigName="Debug"/>
+      <Project Name="very_large_numbers" ConfigName="Debug"/>
+      <Project Name="boost_library" ConfigName="Debug"/>
+      <Project Name="valid_triangle" ConfigName="Debug"/>
+      <Project Name="ciel_reciept" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="enormous_input" ConfigName="Release"/>
+      <Project Name="add_numbers" ConfigName="Release"/>
+      <Project Name="sum_of_digits" ConfigName="Release"/>
+      <Project Name="find_remainder" ConfigName="Release"/>
+      <Project Name="small_factorial" ConfigName="Release"/>
+      <Project Name="multiply_by_array" ConfigName="Release"/>
+      <Project Name="pass_array" ConfigName="Release"/>
+      <Project Name="quick_sort" ConfigName="Release"/>
+      <Project Name="turbo_sort" ConfigName="Release"/>
+      <Project Name="first_and_last_digit_sum" ConfigName="Release"/>
+      <Project Name="occurence_of_four" ConfigName="Release"/>
+      <Project Name="reverse_a_integer" ConfigName="Release"/>
+      <Project Name="square_root" ConfigName="Release"/>
+      <Project Name="lead_game" ConfigName="Release"/>
+      <Project Name="second_largest" ConfigName="Release"/>
+      <Project Name="pancakes_packaging" ConfigName="Release"/>
+      <Project Name="factorial_revisited" ConfigName="Release"/>
+      <Project Name="helping_chef" ConfigName="Release"/>
+      <Project Name="chef_and_operators" ConfigName="Release"/>
+      <Project Name="IIT_BHU_Problem1" ConfigName="Release"/>
+      <Project Name="IIT_BHU_Problem2" ConfigName="Release"/>
+      <Project Name="IIT_BHU_Problem3" ConfigName="Release"/>
+      <Project Name="pattern" ConfigName="Release"/>
+      <Project Name="entry_guards" ConfigName="Release"/>
+      <Project Name="gcd" ConfigName="Release"/>
+      <Project Name="lowest_form" ConfigName="Release"/>
+      <Project Name="very_large_numbers" ConfigName="Release"/>
+      <Project Name="boost_library" ConfigName="Release"/>
+      <Project Name="valid_triangle" ConfigName="Release"/>
+      <Project Name="ciel_reciept" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
